@@ -1,0 +1,5 @@
+hid-magicmouse (0.1) natty; urgency=low
+
+  * Copied DKMS structure from rtl8192cu-dkms
+
+ -- Adam McDaniel <adam@jolicloud.org>  Fri, 06 May 2011 21:28:10 -0600
